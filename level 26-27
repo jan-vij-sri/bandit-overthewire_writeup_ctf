@@ -1,0 +1,6 @@
+bandit26-ssh bandit.labs.overthewire.org -l bandit26 -p  2220
+vi
+:set shell=/bin/bash
+:shell
+password shown -upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB
+exit
