@@ -1,1 +1,0 @@
-# bandit-overthewire_writeup_ctf
